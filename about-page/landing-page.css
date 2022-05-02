@@ -1,0 +1,21 @@
+html {
+    background-color: rgba(white);
+}
+#banner {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    background-color: rgba(#73a31e);
+}
+banner {
+    background-color: rgba(#73a31e);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#image-gallery {
+    margin-left: 2%;
+}
+
+
