@@ -42,6 +42,8 @@ h1 {
 }
 
 .card {
+    position: absolute;
+    margin: 0%;
     display: flex;
     justify-content: right;
     align-items: center;
