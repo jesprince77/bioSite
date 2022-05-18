@@ -34,15 +34,10 @@ h1 {
     color: #116DA9;
 }
 
-
-
 #image-gallery {
-    margin-top: 10%;
-    display: inlince-block;
+    margin-top: 5%;
+    display: inline-block;    
 }
-.grid-container {
-    display: inline-block;
-  }
 
 #page-title {
     text-align: center;
@@ -54,8 +49,6 @@ img {
     width: 400px;
     height: 350px;
 }
-
-
 
 .gallery-title {
     text-align: center;
