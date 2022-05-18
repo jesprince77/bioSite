@@ -39,6 +39,7 @@ h1 {
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
+    justify-content: center;
 }
 
 .card  {
