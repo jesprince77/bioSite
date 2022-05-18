@@ -38,11 +38,10 @@ h1 {
 
 #image-gallery {
     margin-top: 10%;
-    display: grid;
-    grid-template-columns: auto auto auto;
+    display: inlince-block;
 }
 .grid-container {
-    display: grid;
+    display: inline-block;
   }
 
 #page-title {
