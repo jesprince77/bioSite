@@ -34,30 +34,54 @@ h1 {
     color: #116DA9;
 }
 
-#container {
-    margin:auto;
-    padding: 20px;
-    justify-content: center;
-    position: relative;
-    display: flex;
+
+#image-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
-    
+.grid-container {
+    display: grid;
+  }
 
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 50%;
-    text-align: center;  
-}
-
-
-
-.card-content {
-    padding: 2px 16px;
+#page-title {
+    text-align: center;
+    font-family: 'Advent Pro', Verdana, Arial, sans-serif;
+    font-weight: 400;
 }
 
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+img {
+    width: 400px;
+    height: 350px;
+}
+
+
+
+.gallery-title {
+    text-align: center;
+    font-family: 'Advent Pro', Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-style: italic;
+    font-size: .75em;
+    font-weight: 400;
+}
+
+h1, h2, figcaption {
+    color: rgba(#43210f);
+}
+
+.gallery-item {
+    border: 1px solid rgba (#73a31e);
+    border-radius: 15px;
+    padding: 5px;
 }
 
 footer {
@@ -80,5 +104,4 @@ footer a {
     text-decoration: none;
     color: white;
 }
-
 
