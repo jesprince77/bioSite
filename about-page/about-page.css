@@ -35,9 +35,9 @@ h1 {
 }
 
 #image-gallery {
-    margin-top: 10%;
+    margin-top: 2%;
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto auto;
 }
 .grid-container {
     display: grid;
@@ -50,8 +50,8 @@ h1 {
 }
 
 img {
-    width: 400px;
-    height: 350px;
+    width: 200px;
+    height: 125px;
 }
 
 
