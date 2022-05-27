@@ -1,5 +1,5 @@
 html,body {
-    margin: 2px;
+    margin: 0px;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 300,400,500,700;
 }
@@ -80,7 +80,7 @@ h1, h2, figcaption {
 
 footer {
     background-color: #73A31E;
-    position: absolute;
+    position: bottom;
     bottom: 0;
     width: 100%;
 }
