@@ -80,7 +80,7 @@ h1, h2, figcaption {
 
 footer {
     background-color: #73A31E;
-    position: bottom;
+    position: absolute;
     bottom: 0;
     width: 100%;
 }
