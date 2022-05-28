@@ -15,11 +15,7 @@ header {
 h1 {
     font-weight: 400;
 }
-.logo_container h1{
-    height:auto;
-    display: table;
-    float: left;
-}
+
 #navbar {
     overflow: hidden;
     background-color: #116DA9;
