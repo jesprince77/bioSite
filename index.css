@@ -82,7 +82,7 @@ h1, h2, figcaption {
 }
 
 .gallery-item {
-    border: 1px solid rgba (#73a31e);
+    border: 1px solid rgba #73A31E;
     border-radius: 15px;
     padding: 5px;
 }
