@@ -10,6 +10,12 @@ header {
     padding: 20px;
     text-align: center;
 }
+header image {
+    background-image: url(images/planet-possibility-logo.png);
+    float: left;
+    width: 8%;
+    height: 11%;
+}
 
 h1 {
     font-weight: 400;
