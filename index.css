@@ -11,8 +11,7 @@ header {
     text-align: center;
 }
 header image {
-    border-image: left;
-    display: block;
+    border-image: top left;
     width: 8px;
     height: 11px;
 }
