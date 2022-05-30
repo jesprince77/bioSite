@@ -11,9 +11,9 @@ header {
     text-align: center;
 }
 header img {
-    width: fit-content
-    height: fit-content
-
+    width: 50%
+    height: auto
+    float: left
 }
 
 
