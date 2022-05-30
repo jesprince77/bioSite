@@ -11,9 +11,10 @@ header {
     text-align: center;
 }
 header img {
-    width: 10%;
-    height: 15%;
-    float: right;   
+    width: 8%;
+    height: 10%;
+    float: right;
+    background-image: url(images/planet-possibility-logo.png);   
 }
 
 
