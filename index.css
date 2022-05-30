@@ -11,9 +11,9 @@ header {
     text-align: center;
 }
 header image {
-    text-align: left;
-    width: 8%;
-    height: 11%;
+    float: left;
+    width: 8px;
+    height: 11px;
 }
 
 h1 {
