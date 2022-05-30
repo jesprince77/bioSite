@@ -7,13 +7,14 @@ html,body {
 header {
     background-color: #73A31E;
     color: white;
-    padding: 0px;
+    padding: 20px;
     text-align: center;
 }
 header image {
     float: left;
     width: 60px;
     height: 80px;
+    display: block;
 }
 
 h1 {
