@@ -12,6 +12,8 @@ header {
 }
 header image {
     border-image: top left;
+    float: top left;
+    text-align: top left;
     width: 8px;
     height: 11px;
 }
