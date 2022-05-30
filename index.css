@@ -12,6 +12,7 @@ header {
 }
 header image {
     border-image: left;
+    display: block;
     width: 8px;
     height: 11px;
 }
