@@ -11,7 +11,7 @@ header {
     text-align: center;
 }
 header image {
-    float: left;
+    border-image: left;
     width: 8px;
     height: 11px;
 }
