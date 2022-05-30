@@ -10,7 +10,12 @@ header {
     padding: 20px;
     text-align: center;
 }
-
+header image {
+    float: left;
+    width: 60px;
+    height: 80px;
+    display: block;
+}
 h1 {
     font-weight: 400;
 }
