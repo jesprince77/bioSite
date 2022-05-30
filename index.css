@@ -12,7 +12,7 @@ header {
 }
 header image {
     background-image: url(images/planet-possibility-logo.png);
-    float: left;
+    text-align: left;
     width: 8%;
     height: 11%;
 }
