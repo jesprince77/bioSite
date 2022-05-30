@@ -10,6 +10,11 @@ header {
     padding: 20px;
     text-align: center;
 }
+header img {
+    width: fit-content
+    height: fit-content
+
+}
 
 
 h1 {
@@ -89,7 +94,7 @@ h1, h2, figcaption {
 
 footer {
     background-color: #73A31E;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
