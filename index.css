@@ -43,10 +43,10 @@ h1 {
 }
 body {
     background-image: url("..images/green-leaf-background.jpg");
-    background-size:contain;
+    background-size:cover;
     background-repeat: no-repeat;
     width: auto;
-    height:auto;
+    height: 100vh;
 }
 
 #image-gallery {
