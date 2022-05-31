@@ -43,7 +43,7 @@ h1 {
 }
 body {
     background-image: url("images/magnolia-background.png");
-    background-size:contain;
+    background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
     background-color: white;
