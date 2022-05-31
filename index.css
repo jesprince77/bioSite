@@ -56,6 +56,13 @@ body {
     grid-template-columns: auto auto auto;
 }
 .grid-container {
+    background-image: url("..images/green-leaf-background.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    width: auto;
+    height: 100vh;
     display: grid;
   }
 
