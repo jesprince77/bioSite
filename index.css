@@ -41,7 +41,7 @@ h1 {
     background-color: #C06806;
     color: #116DA9;
 }
-.background {
+body {
     background-image: url("..images/green-leaf-background.jpg");
     background-size:cover;
     background-repeat: no-repeat;
