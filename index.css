@@ -42,7 +42,7 @@ h1 {
     color: #116DA9;
 }
 body {
-    background-image: url("images/background-logo.png");
+    background-image: url(images/leaf-background.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
