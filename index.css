@@ -40,7 +40,10 @@ h1 {
     background-color: #C06806;
     color: #116DA9;
 }
-
+body {
+    background-image: url("images/green/leaf/background.png");
+    background-repeat: no-repeat;
+  }
 
 #image-gallery {
     margin-top: 2%;
