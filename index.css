@@ -56,6 +56,7 @@ body {
     margin-top: 2%;
     display: grid;
     grid-template-columns: auto auto auto;
+    opacity: 1;
 }
 .grid-container {
     display: grid;
