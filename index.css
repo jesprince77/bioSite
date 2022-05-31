@@ -45,7 +45,8 @@ body {
     background-image: url("..images/green-leaf-background.jpg");
     background-size:contain;
     background-repeat: no-repeat;
-    height:100vh;
+    width: auto;
+    height:auto;
 }
 
 #image-gallery {
