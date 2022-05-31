@@ -41,8 +41,10 @@ h1 {
     color: #116DA9;
 }
 body {
-    background-image: url(images/green-leaf-background.jpg);
+    background-image: url("images/green-leaf-background.jpg");
     background-repeat: no-repeat;
+    background-clip: border-box;
+    background-color: white;
   }
 
 #image-gallery {
