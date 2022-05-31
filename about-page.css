@@ -59,7 +59,9 @@ font-weight: 400;
 color: white;
 }
 p {
-    color: white;
+    color: black;
+    margin: 2%;
+    padding: 2%;
 }
 img {
 width: 200px;
@@ -71,7 +73,7 @@ border-radius: 70px;
 text-align: center;
 font-family: 'Advent Pro', Verdana, Arial, sans-serif;
 font-weight: 400;
-color: white;
+color: black;
 }
 
 figure {
@@ -86,7 +88,7 @@ font-weight: 400;
 }
 
 h1, h2, figcaption {
-color: white;
+color: black;
 }
 
 .gallery-item {
