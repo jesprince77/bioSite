@@ -57,6 +57,7 @@ h1 {
   .leftcolumn {
     float: left;
     width: 75%;
+    color: white;
   }
   
   /* Right column */
