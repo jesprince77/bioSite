@@ -61,7 +61,7 @@ body {
   }
 
 #page-title {
-    text-decoration-color: white;
+    color: white;
     text-align: center;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 400;
@@ -76,6 +76,7 @@ img {
 
 
 .gallery-title {
+    color: white;
     text-align: center;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 400;
@@ -86,6 +87,7 @@ figure {
 }
 
 figcaption {
+    color: white;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-style: italic;
     font-size: .75em;
