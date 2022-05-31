@@ -40,12 +40,12 @@ h1 {
     background-color: #C06806;
     color: #116DA9;
 }
-p {
+.background-image{
     background-image: url("images/green-leaf-background.jpg");
+    background-size:cover;
     background-repeat: no-repeat;
-    background-clip: border;
-    background-color: white;
-  }
+    height:100vh;
+}
 
 #image-gallery {
     margin-top: 2%;
