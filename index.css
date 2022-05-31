@@ -40,8 +40,8 @@ h1 {
     background-color: #C06806;
     color: #116DA9;
 }
-img {
-    background-image: "images/green-leaf-background.jpg";
+body {
+    background-image: url(images/green-leaf-background.jpg);
     background-repeat: no-repeat;
   }
 
