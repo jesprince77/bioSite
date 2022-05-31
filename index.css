@@ -43,7 +43,7 @@ h1 {
 p {
     background-image: url("images/green-leaf-background.jpg");
     background-repeat: no-repeat;
-    background-clip: border-box;
+    background-clip: border;
     background-color: white;
   }
 
