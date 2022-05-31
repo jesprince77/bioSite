@@ -61,7 +61,7 @@ color: white;
 p {
     color: black;
     margin: 2%;
-    padding: 2%;
+    
 }
 img {
 width: 200px;
@@ -89,6 +89,7 @@ font-weight: 400;
 
 h1, h2, figcaption {
 color: black;
+margin: 2%;
 }
 
 .gallery-item {
