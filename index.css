@@ -42,8 +42,8 @@ h1 {
     color: #116DA9;
 }
 body {
-    background-image: url("images/planet-possibility-logo.png");
-    background-size:cover;
+    background-image: url("images/green-leaf-background.jpeg");
+    background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: white;
