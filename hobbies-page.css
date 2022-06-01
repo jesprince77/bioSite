@@ -1,4 +1,5 @@
 html,body {
+    padding: 0;
     margin: 0;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 300,400,500,700;
@@ -16,9 +17,11 @@ header image {
     height: 80px;
     display: block;
 }
+
 h1 {
     font-weight: 400;
 }
+
 #navbar {
     overflow: hidden;
     background-color: #116DA9;
@@ -38,32 +41,45 @@ h1 {
     background-color: #C06806;
     color: #116DA9;
 }
-
+body {
+    background-image: url(images/magnolia-background.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    
+}
 
 #image-gallery {
     margin-top: 2%;
     display: grid;
     grid-template-columns: auto auto auto;
+    opacity: 1;
 }
 .grid-container {
     display: grid;
   }
 
 #page-title {
+    color: white;
     text-align: center;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 400;
 }
 
 img {
-    width: 250px;
+    width: 300px;
     height: 350px;
     border-radius: 70px;
+    opacity: 1;
 }
 
 
 
 .gallery-title {
+    color: white;
     text-align: center;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 400;
@@ -74,6 +90,7 @@ figure {
 }
 
 figcaption {
+    color: white;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-style: italic;
     font-size: .75em;
@@ -85,9 +102,10 @@ h1, h2, figcaption {
 }
 
 .gallery-item {
-    border: 1px solid rgba (#73a31e);
+    border: 1px solid rgba #73A31E;
     border-radius: 15px;
     padding: 5px;
+    opacity: 1;
 }
 
 footer {
