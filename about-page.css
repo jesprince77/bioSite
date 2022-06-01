@@ -1,6 +1,8 @@
 html,body { margin: 0px;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
     font-weight: 300,400,500,700;
+    scroll-behavior: smooth;
+    
 }
 
 header {
