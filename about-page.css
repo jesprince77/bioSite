@@ -64,7 +64,8 @@ p {
     margin-left: 2%;
     margin-top: 0%;
     padding-bottom: 2%;
-    line-height: 10%;
+    line-height: 1;
+    
 }
 img {
 width: 200px;
