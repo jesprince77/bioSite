@@ -94,7 +94,8 @@ font-weight: 400;
 
 h1, h2, figcaption {
 color: black;
-
+margin-left: 2%;
+margin-top: 0%;
 }
 
 .gallery-item {
