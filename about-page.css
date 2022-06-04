@@ -17,9 +17,11 @@ header image {
 }
 h1 {
 font-weight: 400;
+text-align: center;
 }
 h2 {
     font-weight: 300;
+    text-align: center;
 }
 #navbar {
 overflow: hidden;
@@ -51,7 +53,7 @@ body {
     
 }
 #image-gallery {
-margin-top: 2%;
+margin-top: 0%;
 display: inline-block;    
 }
 
