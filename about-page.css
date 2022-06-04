@@ -18,6 +18,9 @@ header image {
 h1 {
 font-weight: 400;
 }
+h2 {
+    font-weight: 300;
+}
 #navbar {
 overflow: hidden;
 background-color: #116DA9;
