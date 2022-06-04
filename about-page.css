@@ -1,24 +1,26 @@
-html,body { margin: 0px;
+html,body {
+    margin: 0;
     font-family: 'Advent Pro', Verdana, Arial, sans-serif;
-    font-weight: 300,400,500,700;    
+    font-weight: 300,400,500,700;
+    color: white;
 }
 
 header {
-background-color: #73A31E;
-color: white;
-padding: 15px;
-text-align: center;
+    background-color: #73A31E;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 header image {
     float: left;
-    width: 50px;
-    height: 70px;
+    width: 60px;
+    height: 80px;
     display: block;
 }
-/* Center text in h1 with h2 in the header */
+
 h1 {
-font-weight: 400;
-text-align: center;
+    font-weight: 400;
+    color: white;
 }
 
 #navbar {
