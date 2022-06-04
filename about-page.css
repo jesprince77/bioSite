@@ -34,7 +34,7 @@ float: left;
 display: block;
 color: white;
 text-align: center;
-padding: 12px 14px;
+padding: 14px 16px;
 text-decoration: none;
 }
 
@@ -55,7 +55,6 @@ body {
 #image-gallery {
 margin-top: 0%;
 display: inline-block;    
-text-align: center;
 }
 
 
